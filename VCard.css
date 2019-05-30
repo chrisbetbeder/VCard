@@ -1,0 +1,47 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+.container{
+padding-bottom: 600px;
+padding-right: 150px;
+background: rgb(219,238,234);
+background: linear-gradient(90deg, rgba(219,238,234,1) 37%, rgba(0,212,255,1) 71%, rgba(2,0,36,0.15448177562040444) 96%);
+height: 100px;
+width: 50%;
+border-radius: 40px;
+border: 1px solid #81ecec;
+text-align:center;
+
+}
+
+.image-container{
+    text-align: right;
+}
+
+img{
+   border-radius: 8px;
+   border: 2px solid #81ecec;
+   padding-right: 0%;
+   text-align: right;
+   border-top: 2px;
+}
+
+p{
+  text-align: center;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h3{
+    text-align: center;
+    text-decoration: overline;
+    
+}
