@@ -1,8 +1,7 @@
 body {
     background-image: url("background.jpg");
     background-size: cover;
-    text-align: center;
-    
+    text-align: center; 
     
 }
 
@@ -14,8 +13,11 @@ background: linear-gradient(90deg, rgba(219,238,234,1) 37%, rgba(0,212,255,1) 71
 height: 100px;
 width: 50%;
 border-radius: 40px;
-border: 1px solid #81ecec;
+border: 6px solid #81ecec;
 text-align:center;
+margin-left: auto;
+margin-right: auto;
+
 
 }
 
@@ -29,6 +31,7 @@ img{
    padding-right: 0%;
    text-align: right;
    border-top: 2px;
+   
 }
 
 p{
@@ -43,5 +46,4 @@ h1{
 h3{
     text-align: center;
     text-decoration: overline;
-    
 }
